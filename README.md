@@ -1,5 +1,5 @@
 
-# fibonacci-api
+# fib_api
 
 REST API that returns the specified nth Fibonacci number.
 If n is a value between 1 and 1000, the nth Fibonacci number is returned.
@@ -22,8 +22,8 @@ The amount of calculation is O(N).
 Make sure you have Go version 1.21 or newer and the Heroku CLI installed.
 
 ```shell
-$ git clone https://github.com/nanikasi/fibonacci-api.git
-$ cd fibonacci-api
+$ git clone https://github.com/nanikasi/fib_api.git
+$ cd fib_api
 $ go build -o bin/fibonacci-api -v .
 $ heroku local
 ```
