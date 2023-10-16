@@ -1,0 +1,9 @@
+{
+  "name": "Fibonacci API",
+  "description": "Returns the first to 1000th terms of the Fibonacci sequence.",
+  "keywords": [
+    "fibonacci"
+  ],
+  "website": "http://github.com/nanikasi/fibonacci-api",
+  "repository": "http://github.com/nanikasi/fibonacci-api"
+}
